@@ -1,0 +1,75 @@
+body {
+
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background: #0b1220;
+
+    color: white;
+
+}
+
+
+.container {
+
+    width: 90%;
+
+    max-width: 800px;
+
+    margin: 50px auto;
+
+}
+
+
+h1 {
+
+    text-align: center;
+
+    color: #f5c542;
+
+}
+
+
+.card {
+
+    background: #162033;
+
+    padding: 25px;
+
+    margin-top: 20px;
+
+    border-radius: 15px;
+
+    box-shadow: 0 0 15px black;
+
+}
+
+
+.card h2 {
+
+    color: #f5c542;
+
+}
+
+
+#transactions {
+
+    list-style: none;
+
+    padding: 0;
+
+}
+
+
+#transactions li {
+
+    background: #202d45;
+
+    padding: 15px;
+
+    margin-top: 10px;
+
+    border-radius: 10px;
+
+}
